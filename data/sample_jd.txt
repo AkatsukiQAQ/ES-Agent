@@ -1,0 +1,63 @@
+01.Speech ＆ Language AI【R&D】
+業務概要
+Position Summary
+ソニーグループ本社のR&Dでは、ゲーム、音楽、映画領域への応用を想定した音声・言語技術の研究開発を行っています。その中で我々のチームは、自然言語処理や大規模言語モデル(LLM)を活用したコンテンツ制作支援・作業効率化に取り組んでいます。本インターンではLLMを活用した下流タスクの開発、各種モデルの組み合わせによる改善などに取り組んでいただきます。
+
+業務内容
+Responsibilities
+大規模言語モデルを活用した翻訳など下流タスクの開発。知識蒸留や合成データを活用した精度改善・機能拡張。
+実施期間
+Term
+3か月間～半年程度、週2日程度の勤務を想定 (応相談)
+応募条件
+（学位など）
+Required Degree
+大学院修士課程または博士課程に在学中の方
+必須スキル
+Required qualifications
+自然言語処理の専門知識、機械学習全般の専門知識
+英語論文を読んで追試できる英語力、実装力
+Pythonプログラミングの基本的なスキル、及びPyTorchなどフレームワークの使用経験
+あると望ましい
+スキル
+Preferred qualifications
+自然言語処理の機械学習応用経験
+大規模言語モデルの開発経験もしくは下流タスクへの応用経験
+製品・
+サービス領域
+Product, Service
+グループ会社のエンターテインメント領域への応用
+開発環境
+Development Environment
+Linux/Windows
+Python (pytorch, transformers, scikit-learn etc.)
+Github
+Docker
+エントリー期間
+Application Period
+随時受付／定員に達し次第、受付終了
+Acceptance accepted at any time / Closed once the limit is reached.
+
+エントリー方法
+How to apply
+2027年卒　ソニーグループ共通　インターンシップ・新卒採用マイページからエントリーを行ってください。
+Please apply from the 2027 Internship/New Graduate Recruitment My Page.
+
+待遇
+Treatment
+博士　1,950円/h～
+修士　1,750円/h～
+※能力、経験を考慮し決定いたします。
+Doctoral course 1,950 yen/h~
+Bachelor's/Master's course: 1,750 yen/h~
+*Decisions will be made based on ability and experience.
+実施場所
+Location
+ソニーシティ大崎
+（※業務内容や進捗状況によってはリモートの場合もある）
+Sony City Osaki
+(*Depending on the work content and progress, it may be remote.)
+実施会社
+Company
+ソニーグループ株式会社
+Sony Group Corporation

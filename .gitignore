@@ -1,3 +1,8 @@
 ## Environment Documents ##
 .env
 .idea/
+
+## Private Files ##
+data/user_profile.yaml
+data/session_profile.yaml
+Project Plan.txt
