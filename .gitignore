@@ -1,4 +1,5 @@
 ## Environment Documents ##
+__pycache__/
 .env
 .idea/
 
